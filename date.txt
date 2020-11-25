@@ -1,0 +1,1 @@
+[Om{inaltimea=175, culoareOchilor='Albastri', greutate=60.0, sexul=false}, Om{inaltimea=165, culoareOchilor='Verde', greutate=55.0, sexul=true}, Om{inaltimea=170, culoareOchilor='Cafeniu', greutate=50.0, sexul=true}]
